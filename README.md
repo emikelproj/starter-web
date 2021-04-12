@@ -1,8 +1,10 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub works
 
 # Deployment
+
+This is a simple web project, deployment can be on any web server or even in a local file system
 
 ## Purpose
 
